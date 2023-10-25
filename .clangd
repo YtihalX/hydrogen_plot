@@ -1,0 +1,2 @@
+CompilerFlags:
+  Add: [-lgsl, -lgslcblas, -pthread]
